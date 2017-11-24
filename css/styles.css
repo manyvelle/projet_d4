@@ -1,0 +1,26 @@
+header{
+  min-height: 80vh;
+    background-image: url(profil.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 2em;
+}
+
+h2{
+  font-family: 'EB Garamond', serif;
+  font-size: 1em;
+}
+
+body{
+  background-color: #fff;
+  font-family: 'EB Garamond', serif;
+}
